@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launch.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeCassidy/app.git"
+  },
+  "author": "Hunter Wheeler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeCassidy/app/issues"
+  },
+  "homepage": "https://github.com/OrangeCassidy/app#readme"
+}
